@@ -143,8 +143,25 @@ Reflow가 일어나는 대표적인 경우는 아래와 같습니다.
 
 Reflow를 했다면 변경된 내용을 화면에 적용하기 위해서는 Paint 단계가 다시 수행되는 Repaint 를 해야 합니다.
 
-하지만 Reflow가 일어나면 무조건 Repaint가 일어나는것은 아닙니다.
+<br />
+
+---
+
+<br />
+<br />
+
+# 2. 렌더링 최적화
+
+## 2-1. Reflow, Repaint 줄이기
+
+<br />
+
+1-7의 Repaint는 Reflow가 일어나면 무조건 일어나는 것은 아닙니다.
 
 background-color, visibility와 같이 레이아웃 자체에 영향을 주지 않는 스타일 속성이 변경되었을 때는 Reflow를
 
 수행할 필요가 없기 때문에 Repaint만 수행하게 됩니다.
+
+  <div style="text-align:center">
+    <img src="./1/1_5.png">
+  </div>
