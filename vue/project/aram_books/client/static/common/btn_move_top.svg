@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" viewBox="0 0 70 70">
-    <circle cx="35" cy="35" r="35" fill="#fff"/>
-    <text fill="#666" font-family="NotoSansCJKkr-Medium, Noto Sans CJK KR" font-size="18px" font-weight="500" letter-spacing="-0.02em" transform="translate(35.394 50.442)">
-        <tspan x="-17.487" y="0">TOP</tspan>
-    </text>
-    <path fill="#666" d="M11.209 1.7L9.5 0 0 9.509l9.509 9.509 1.7-1.7L3.4 9.509z" transform="rotate(90 14.984 29.892)"/>
-</svg>

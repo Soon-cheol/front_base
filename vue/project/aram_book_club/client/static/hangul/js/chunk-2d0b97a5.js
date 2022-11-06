@@ -1,1 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b97a5"],{"32b2":function(n,t,e){"use strict";e.r(t);var u=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("div",[n._v(" 하루 한글 메인 ")])},a=[],c={data:function(){return{}},methods:{}},r=c,o=e("2877"),s=Object(o["a"])(r,u,a,!1,null,"38b17b80",null);t["default"]=s.exports}}]);
