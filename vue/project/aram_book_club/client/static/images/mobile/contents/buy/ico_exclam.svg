@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="27" viewBox="0 0 24 27">
+    <g>
+        <g fill="none" stroke="#999" stroke-width="1.5px" transform="translate(-85 -901.629) translate(85 904)">
+            <circle cx="12" cy="12" r="12" stroke="none"/>
+            <circle cx="12" cy="12" r="11.25"/>
+        </g>
+        <text fill="#827e79" font-family="NotoSansCJKkr-Regular, Noto Sans CJK KR" font-size="17.739px" letter-spacing="-0.03em" transform="translate(-85 -901.629) translate(96.951 922.629)">
+            <tspan x="-2.865" y="0">!</tspan>
+        </text>
+    </g>
+</svg>

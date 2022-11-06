@@ -1,0 +1,27 @@
+<svg id="BT_맨위로" xmlns="http://www.w3.org/2000/svg" width="107" height="107" viewBox="0 0 107 107">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-1 {
+        opacity: 0.6;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        font-size: 18.665px;
+        fill: #c5c4c4;
+        text-anchor: middle;
+        font-family: "Noto Sans CJK KR";
+      }
+    </style>
+  </defs>
+  <path id="타원_1042" data-name="타원 1042" class="cls-1" d="M1,53.667a52.5,52.5,0,1,1,52.5,52.5A52.5,52.5,0,0,1,1,53.667Z"/>
+  <path class="cls-2" d="M55.447,22.117L71.7,44.416c0.792,1.108.885,2.566-1.368,2.552l-34.125-.1c-1.7.011-2.122-1.078-1.2-2.5L51.251,22.286C52.468,20.675,54.5,20.673,55.447,22.117Z"/>
+  <text id="위로" class="cls-3" transform="translate(53.355 84.66) scale(1.5 1.5)"><tspan x="0">위로</tspan></text>
+</svg>

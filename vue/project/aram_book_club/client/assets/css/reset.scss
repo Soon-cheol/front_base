@@ -1,0 +1,341 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&display=swap%22%20rel=%22stylesheet%22');
+// @font-face {
+//   font-family: 'AritaBuri';
+//   font-weight: 200;
+//   src: url(~font/Arita-buri/Arita-buri-Light.eot);
+//   src: url(~font/Arita-buri/Arita-buri-Light.eot?#iefix)
+//       format('embedded-opentype'),
+//     url(~font/Arita-buri/Arita-buri-Light.woff) format('woff');
+//   // url(~font/NotoSansKR/Arita-buri-Light.ttf) format('truetype');
+// }
+// @font-face {
+//   font-family: 'AritaBuri';
+//   font-weight: 400;
+//   src: url(~font/Arita-buri/Arita-buri-Medium.eot);
+//   src: url(~font/Arita-buri/Arita-buri-Medium.eot?#iefix)
+//       format('embedded-opentype'),
+//     url(~font/Arita-buri/Arita-buri-Medium.woff) format('woff');
+//   // url(~font/NotoSansKR/Arita-buri-Medium.ttf) format('truetype');
+// }
+// @font-face {
+//   font-family: 'AritaBuri';
+//   font-weight: 600;
+//   src: url(~font/Arita-buri/Arita-buri-SemiBold.eot);
+//   src: url(~font/Arita-buri/Arita-buri-SemiBold.eot?#iefix)
+//       format('embedded-opentype'),
+//     url(~font/Arita-buri/Arita-buri-SemiBold.woff) format('woff');
+//   // url(~font/NotoSansKR/Arita-buri-SemiBold.ttf) format('truetype');
+// }
+
+// @font-face {
+//   font-family: 'NanumSquareRound';
+//   font-weight: 400;
+//   src: url(~font/NanumSquareRound/NanumSquareRoundR.eot);
+//   src: url(~font/NanumSquareRound/NanumSquareRoundR.eot?#iefix)
+//       format('embedded-opentype'),
+//     url(~font/NanumSquareRound/NanumSquareRoundR.woff) format('woff'),
+//     url(~font/NanumSquareRound/NanumSquareRoundR.ttf) format('truetype');
+// }
+// @font-face {
+//   font-family: 'NanumSquareRound';
+//   font-weight: 700;
+//   src: url(~font/NanumSquareRound/NanumSquareRoundB.eot);
+//   src: url(~font/NanumSquareRound/NanumSquareRoundB.eot?#iefix)
+//       format('embedded-opentype'),
+//     url(~font/NanumSquareRound/NanumSquareRoundB.woff) format('woff'),
+//     url(~font/NanumSquareRound/NanumSquareRoundB.ttf) format('truetype');
+// }
+// @font-face {
+//   font-family: 'NanumSquareRound';
+//   font-weight: 800;
+//   src: url(~font/NanumSquareRound/NanumSquareRoundEB.eot);
+//   src: url(~font/NanumSquareRound/NanumSquareRoundEB.eot?#iefix)
+//       format('embedded-opentype'),
+//     url(~font/NanumSquareRound/NanumSquareRoundEB.woff) format('woff'),
+//     url(~font/NanumSquareRound/NanumSquareRoundEB.ttf) format('truetype');
+// }
+// @font-face {
+//   font-family: 'NanumSquareRound';
+//   font-weight: 300;
+//   src: url(~font/NanumSquareRound/NanumSquareRoundL.eot);
+//   src: url(~font/NanumSquareRound/NanumSquareRoundL.eot?#iefix)
+//       format('embedded-opentype'),
+//     url(~font/NanumSquareRound/NanumSquareRoundL.woff) format('woff'),
+//     url(~font/NanumSquareRound/NanumSquareRoundL.ttf) format('truetype');
+// }
+@media screen and (max-width: 319px) {
+  html {
+    font-size: 58.5%;
+  }
+}
+@media screen and (min-width: 320px) {
+  html {
+    font-size: 62.5%;
+  }
+}
+
+@media screen and (min-width: 360px) {
+  html {
+    font-size: 70.3125%;
+  }
+}
+
+@media screen and (min-width: 375px) {
+  html {
+    font-size: 73.2421%;
+  }
+}
+
+@media screen and (min-width: 412px) {
+  html {
+    font-size: 80.4688%;
+  }
+}
+
+@media screen and (min-width: 414px) {
+  html {
+    font-size: 80.8594%;
+  }
+}
+
+@media screen and (min-width: 640px) {
+  html {
+    font-size: 125%;
+  }
+}
+$mainFont: 'Noto Sans KR';
+$subFont: 'AritaBuri';
+
+.sub-font {
+  font-family: $subFont;
+}
+
+$fontColor3: #191919;
+$fontColor6: #767676;
+$fontColor9: #999;
+$borderColor: #cfcfcf;
+$errorColor: #ff794a;
+
+html {
+  box-sizing: border-box;
+  -ms-text-size-adjust: none;
+  -webkit-text-size-adjust: none;
+  user-select: none;
+  text-size-adjust: none;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+  outline: none;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 1.2rem;
+  font-family: $mainFont, sans-serif;
+  font-weight: 400;
+  line-height: 1.25;
+  color: $fontColor3;
+}
+
+ul,
+ol,
+li,
+dl,
+dt,
+dd {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+  cursor: pointer;
+}
+
+img {
+  border: 0;
+  vertical-align: middle;
+  font-size: 0;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+}
+
+// caption,
+// legend {
+//   position: absolute;
+//   width: 1px;
+//   height: 1px;
+//   padding: 0;
+//   margin: -1px;
+//   overflow: hidden;
+//   clip: rect(0, 0, 0, 0);
+//   border: 0;
+// }
+select,
+input[type='text'],
+input[type='password'],
+input[type='number'],
+textarea {
+  appearance: none;
+  -webkit-appearance: none;
+  color: $fontColor3;
+  font-size: 1.2rem;
+  font-family: $mainFont;
+}
+select {
+  padding: 8px 40px 8px 10px;
+  // background: url('~static/images/mobile/common/triangle.png') no-repeat 97% 48%;
+  background: url('~static/images/mobile/common/triangle.png') no-repeat 92% 48%;
+  background-size: 12px;
+}
+select,
+input {
+  vertical-align: middle;
+}
+select::-ms-expand {
+  display: none;
+}
+
+input[type='text'],
+input[type='password'],
+input[type='number'],
+textarea {
+  padding: 8px 10px;
+  font-size: 16px;
+}
+input[type='password'] {
+  font-family: sans-serif;
+}
+input[type='radio'],
+input[type='checkbox'] {
+  width: 20px;
+  height: 20px;
+}
+::-webkit-input-placeholder {
+  /* Edge */
+  color: #adadad;
+}
+:-ms-input-placeholder {
+  /* Internet Explorer 10-11 */
+  color: #adadad;
+}
+::placeholder {
+  color: #adadad;
+}
+b,
+strong {
+  font-weight: 700;
+}
+
+address,
+em,
+i {
+  font-style: normal;
+}
+
+button {
+  border: 0 none;
+  background: none;
+  font-family: $mainFont, sans-serif;
+  transition: all 0.3s ease 0s;
+  -webkit-transition: all 0.3s ease 0s;
+  cursor: pointer;
+}
+
+hr {
+  margin: 0;
+  border: none;
+  padding: 0;
+  display: block;
+}
+
+figure,
+figcaption {
+  padding: 0;
+  margin: 0;
+  display: block;
+}
+
+fieldset {
+  border: none;
+  padding: 0;
+  margin: 0;
+}
+a,
+input[type='radio'],
+input[type='checkbox'],
+label {
+  cursor: pointer;
+}
+
+input[type='submit'] {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+}
+textarea {
+  line-height: 20px;
+}
+
+header,
+footer,
+article,
+section,
+aside,
+nav,
+main {
+  display: block;
+}
+// button,input,optgroup,select,textarea { font-family: inherit; font-size: inherit; font-weight:inherit; margin: 0;}
+input {
+  font-weight: 200;
+}
+
+[lang='en'] {
+  font-family: 'Roboto', sans-serif;
+}
+
+.hidden {
+  display: none !important;
+}
+.txt-preparing {
+  height: 13rem;
+  margin: 2rem 1.5rem;
+  font-size: 1.6rem;
+  text-align: center;
+  line-height: 13rem;
+}
+
+.no-resize {
+  resize: none;
+}
+
+#mo,
+.pc {
+  .tui-editor-contents {
+    img {
+      width: 100%;
+    }
+  }
+}

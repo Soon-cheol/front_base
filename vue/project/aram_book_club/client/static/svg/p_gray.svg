@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #bab8b8;
+      }
+
+      .cls-2 {
+        font-size: 50px;
+        fill: #fff;
+        text-anchor: middle;
+        font-family: NanumSquareRound;
+        font-weight: 800;
+      }
+    </style>
+  </defs>
+  <circle id="타원_1695_copy" data-name="타원 1695 copy" class="cls-1" cx="30" cy="30.5" r="29"/>
+  <text id="P" class="cls-2" x="31.997" y="50"><tspan x="31.997">P</tspan></text>
+</svg>

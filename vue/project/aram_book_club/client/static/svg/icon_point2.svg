@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff4747;
+      }
+
+      .cls-2 {
+        font-size: 40px;
+        fill: #fff;
+        text-anchor: middle;
+        font-family: "Noto Sans CJK KR";
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <circle id="타원_2_복사_3" data-name="타원 2 복사 3" class="cls-1" cx="19.922" cy="19.922" r="19.859"/>
+  <text id="P_복사_4" data-name="P 복사 4" class="cls-2" transform="translate(20.389 29.331) scale(0.647)"><tspan x="0">P</tspan></text>
+</svg>

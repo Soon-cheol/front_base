@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+    <g transform="translate(.003 -.282)">
+        <circle cx="40" cy="40" r="40" fill="#f1f1f5" transform="translate(-.003 .282)"/>
+        <text fill="#9eb547" font-family="TmoneyRoundWind-ExtraBold, Tmoney RoundWind" font-size="26px" font-weight="800" letter-spacing="-0.02em" transform="translate(39.998 50.282)">
+            <tspan x="-25.532" y="0">A</tspan><tspan y="0" fill="#0087bd">LL</tspan>
+        </text>
+    </g>
+</svg>

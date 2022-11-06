@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="108" height="100" viewBox="0 0 108 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #7754c0;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        font-size: 19.75px;
+        text-anchor: middle;
+        font-family: "Noto Sans CJK KR";
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <circle id="타원_731" data-name="타원 731" class="cls-1" cx="50" cy="50" r="50"/>
+  <path id="모양_754" data-name="모양 754" class="cls-2" d="M67.295,22.711H29.755a4.931,4.931,0,0,1,0-9.861H71.133V9H29.755a8.75,8.75,0,0,0-8.695,8.178H21V68.228a8.777,8.777,0,0,0,8.755,8.779H71.133v-54.3H67.295ZM29.755,73.159a4.929,4.929,0,0,1-4.917-4.93V25.036a8.684,8.684,0,0,0,4.917,1.523h37.54v46.6H29.755ZM76.423,15.3l-47.014-.241H29.4a2.6,2.6,0,0,0-.013,5.194l44.437,0.227V72.5A2.591,2.591,0,1,0,79,72.5V17.9Z"/>
+  <rect id="사각형_740" data-name="사각형 740" class="cls-1" x="61" y="32" width="48" height="32"/>
+  <text id="소전집" class="cls-3" transform="translate(84.285 54.778) scale(0.912 0.911)"><tspan x="0">소전집</tspan></text>
+</svg>

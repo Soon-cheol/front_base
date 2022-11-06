@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="104" height="44" viewBox="0 0 104 44">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff3d3d;
+      }
+
+      .cls-2 {
+        font-size: 26px;
+        fill: #fff;
+        text-anchor: middle;
+        font-family: "Noto Sans CJK KR";
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <rect id="모서리가_둥근_직사각형_1386" data-name="모서리가 둥근 직사각형 1386" class="cls-1" x="2.563" y="1" width="99.469" height="42" rx="20" ry="20"/>
+  <text id="NEW" class="cls-2" x="51.842" y="31.923"><tspan x="51.842">NEW</tspan></text>
+</svg>

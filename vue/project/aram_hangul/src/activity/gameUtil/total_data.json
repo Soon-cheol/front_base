@@ -1,0 +1,105 @@
+{
+  "data": {
+    "16": {
+      "type1": {
+        "step1": {
+          "type": 1,
+          "correct": ["ㅏ"],
+          "wrong1": ["ㅓ"],
+          "wrong2": ["ㅑ"],
+          "sound": "ac7_script_1.mp3"
+        },
+        "step2": {
+          "type": 1,
+          "correct": ["ㅛ"],
+          "wrong1": ["ㅠ"],
+          "wrong2": ["ㅜ"],
+          "sound": "ac7_script_1.mp3"
+        },
+        "step3": {
+          "type": 2,
+          "correct": ["ㅡ", "ㅠ"],
+          "wrong1": ["ㅗ", "ㅜ"],
+          "wrong2": ["ㅣ", "ㅕ"],
+          "sound": "ac7_script_1.mp3"
+        },
+        "step4": {
+          "type": 3,
+          "correct": ["ㅣ", "ㅓ", "ㅜ"],
+          "wrong": ["ㅏ", "ㅕ", "ㅗ"],
+          "sound": "ac7_script_1.mp3"
+        }
+      },
+      "type2": {
+        "step1": {
+          "type": 1,
+          "correct": "아야",
+          "wrong": "요요",
+          "sound": "ac7_script_2.mp3"
+        },
+        "step2": {
+          "type": 1,
+          "correct": "우유",
+          "wrong": "여유",
+          "sound": "ac7_script_2.mp3"
+        },
+        "step3": {
+          "type": 2,
+          "correct": "여우",
+          "wrong": "아야",
+          "sound": "ac7_script_2.mp3"
+        },
+        "step4": {
+          "type": 2,
+          "correct": "이유",
+          "wrong": "아이",
+          "sound": "ac7_script_2.mp3"
+        }
+      },
+      "type3": {
+        "step1": {
+          "type": 1,
+          "correct": "여아",
+          "wrong": ["아야", "야"],
+          "sound": "ac7_script_3.mp3"
+        },
+        "step2": {
+          "type": 2,
+          "correct": "야",
+          "wrong": ["어", "오"],
+          "sound": "ac7_script_4.mp3"
+        },
+        "step3": {
+          "type": 2,
+          "correct": "여유",
+          "wrong": ["아이", "아야"],
+          "sound": "ac7_script_4.mp3"
+        },
+        "step4": {
+          "type": 3,
+          "correct": "어",
+          "wrong": ["우", "으"],
+          "sound": "ac7_script_5.mp3"
+        }
+      },
+      "type4": {
+        "step1": {
+          "type": 2,
+          "correct": "돋보기",
+          "fixed": [0, 6],
+          "sound": "ac7_script_6.mp3"
+        },
+        "step2": {
+          "type": 1,
+          "correct": "아이",
+          "sound": "ac7_script_6.mp3"
+        },
+        "step3": {
+          "type": 1,
+          "correct": "여우",
+          "sound": "ac7_script_6.mp3"
+        }
+      }
+    }
+  }
+}

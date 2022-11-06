@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+    <defs>
+        <style>
+            .cls-2{fill:#fff}
+        </style>
+    </defs>
+    <g id="그룹_18508" transform="translate(.373 -.209)">
+        <path id="사각형_23957" fill="rgba(255,255,255,0)" d="M0 0H30V30H0z" transform="translate(-.373 .209)"/>
+        <path id="다각형_29" d="M9.428 4.287a3 3 0 0 1 5.145 0l6.7 11.169A3 3 0 0 1 18.7 20H5.3a3 3 0 0 1-2.572-4.543z" class="cls-2" transform="rotate(-90 15.418 11.791)"/>
+        <rect id="사각형_23958" width="3" height="17" class="cls-2" rx="1.5" transform="translate(6.627 6.781)"/>
+    </g>
+</svg>

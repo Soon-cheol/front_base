@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="68" height="68" viewBox="0 0 68 68">
+    <defs>
+        <filter id="pamd28yaha" width="68" height="68" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur" stdDeviation="3"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g>
+        <g filter="url(#pamd28yaha)" transform="translate(-1466 -716) translate(1466 716)">
+            <circle cx="25" cy="25" r="25" fill="#fff" transform="translate(9 6)"/>
+        </g>
+        <path fill="#555" d="M9.442 21.659l5.892-6.25L9.442 9.16a1.674 1.674 0 0 1 0-2.271 1.452 1.452 0 0 1 2.141 0l6.97 7.393a1.674 1.674 0 0 1 0 2.271l-6.97 7.393a1.452 1.452 0 0 1-2.141 0 1.711 1.711 0 0 1 0-2.287z" transform="translate(-1466 -716) translate(1485.748 731.583)"/>
+    </g>
+</svg>
